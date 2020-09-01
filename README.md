@@ -1,6 +1,6 @@
 # Michael Mitchell
 
-* [Resume](RESUME.md)
+* [Resume](mmitchel/mmitchel/RESUME.md)
 
 <!--
 **mmitchel/mmitchel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
